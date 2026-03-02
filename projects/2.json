@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "userId": "user2",
+  "title": "Organic Wheat Expansion",
+  "shortDescription": "Expanding our organic wheat production to meet growing local demand.",
+  "description": "Our organic wheat has been a hit at the local markets. We want to lease an additional 10 acres to increase production. Funding will go towards land lease and organic seeds.",
+  "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80",
+  "location": "Kansas, USA",
+  "cropType": "Wheat",
+  "fundingGoal": 10000,
+  "currentFunding": 8000,
+  "daysRemaining": 12,
+  "status": "active",
+  "stages": []
+}

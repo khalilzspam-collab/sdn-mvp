@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "userId": "user3",
+  "title": "Urban Vertical Garden",
+  "shortDescription": "Bringing fresh greens to the city center with hydroponics.",
+  "description": "We are setting up a vertical hydroponic garden in a repurposed warehouse. We aim to supply local restaurants with fresh, pesticide-free greens year-round.",
+  "imageUrl": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?auto=format&fit=crop&q=80",
+  "location": "Chicago, USA",
+  "cropType": "Vegetables",
+  "fundingGoal": 15000,
+  "currentFunding": 3000,
+  "daysRemaining": 60,
+  "status": "active",
+  "stages": []
+}

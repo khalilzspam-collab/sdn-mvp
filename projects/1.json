@@ -1,0 +1,49 @@
+{
+  "id": 1,
+  "userId": "user1",
+  "title": "Sustainable Coffee Farm",
+  "shortDescription": "Help us transition to shade-grown coffee to protect local biodiversity.",
+  "description": "We are a family-owned farm in Colombia looking to transition our 5-hectare plot to shade-grown coffee. This will help preserve the local bird population and improve soil health. We need funding for seedlings and native trees.",
+  "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80",
+  "location": "Salento, Colombia",
+  "cropType": "Coffee",
+  "fundingGoal": 5000,
+  "currentFunding": 1250,
+  "daysRemaining": 45,
+  "status": "active",
+  "stages": [
+    {
+      "id": 101,
+      "projectId": 1,
+      "name": "Nursery Setup",
+      "description": "Building the nursery and acquiring seedlings.",
+      "fundingRequired": 1000,
+      "fundingRaised": 1000,
+      "status": "completed",
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-02-01T00:00:00.000Z"
+    },
+    {
+      "id": 102,
+      "projectId": 1,
+      "name": "Planting",
+      "description": "Planting the shade trees and coffee bushes.",
+      "fundingRequired": 2000,
+      "fundingRaised": 250,
+      "status": "in_progress",
+      "startDate": "2023-03-01T00:00:00.000Z",
+      "endDate": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "id": 103,
+      "projectId": 1,
+      "name": "Maintenance",
+      "description": "Fertilizing and pruning.",
+      "fundingRequired": 2000,
+      "fundingRaised": 0,
+      "status": "pending",
+      "startDate": "2023-06-01T00:00:00.000Z",
+      "endDate": "2023-12-01T00:00:00.000Z"
+    }
+  ]
+}
